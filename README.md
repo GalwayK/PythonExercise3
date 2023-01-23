@@ -8,4 +8,4 @@ This application creates a pdf file containing lined entries for use in notetaki
 
 # What skills are showcased in this application? 
 
-This application demonstrates the creation of .pdf files using the fpdf package, using information obtained from a .csv files using the pandas package.
+This application demonstrates the creation of .pdf files using the fpdf package, using information obtained from a .csv file using the pandas package.
